@@ -1,0 +1,40 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-06-12 05:38:08 --> Severity: Notice  --> Undefined variable: blocked E:\xampp\htdocs\project\frameigniter\application\views\user\user_manager.php 38
+ERROR - 2015-06-12 05:38:08 --> Severity: Notice  --> Undefined variable: blocked E:\xampp\htdocs\project\frameigniter\application\views\user\user_manager.php 38
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:42:48 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:21 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:43:46 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> css
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> js
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> img
+ERROR - 2015-06-12 14:44:08 --> 404 Page Not Found --> js
